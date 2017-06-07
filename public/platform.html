@@ -1,15 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <title></title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href="css/platform.css" rel="stylesheet">
-        <script type="text/javascript" src="./js/platform.js"></script>
-    </head>
-    <body>
-        <script>
-            runGame(GAME_LEVELS, DOMDisplay)
-        </script>
-    </body>
+
+<head>
+  <title></title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="css/platform.css" rel="stylesheet">
+  <script type="text/javascript" src="./js/platform.js"></script>
+</head>
+
+<body>
+  <script>
+    // runGame(GAME_LEVELS, DOMDisplay)
+    var simpleLevel = new Level(simpleLevelPlan);
+    var display = new DOMDisplay(document.body, simpleLevel);
+  </script>
+</body>
+
 </html>

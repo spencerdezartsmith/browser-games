@@ -1,25 +1,13 @@
-# Browser Games
+# Simple Platfrom Game
 
-A collection of games to play in a web browser. See the full list of games in the [games.md](games.md) file.
-
-## Installation and Setup
+## Setup
 
 Clone the repo, install npm dependencies, and start the server:
 
-```shell-session
-
-$ npm install
-...
-
-$ npm start
-...
-Starting up http-server, serving ./public
-Available on:
-  http://127.0.0.1:4321
-  http://10.0.1.11:4321
 ```
+open platform.html
 
-Then open `http://localhost:4321/` in your browser of choice and play away!
+```
 
 ## Team
 Spencer Dezart-Smith - https://github.com/spencerdezartsmith

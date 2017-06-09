@@ -6,12 +6,11 @@ Clone the repo, install npm dependencies, and start the server:
 
 ```
 open platform.html
-
 ```
 
 ## Team
 Spencer Dezart-Smith - https://github.com/spencerdezartsmith  
-Team name - null-fron
+Team name - null-frog
 
 ## Specifications
 

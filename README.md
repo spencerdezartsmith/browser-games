@@ -10,8 +10,8 @@ open platform.html
 ```
 
 ## Team
-Spencer Dezart-Smith - https://github.com/spencerdezartsmith
-Team name = null-fron
+Spencer Dezart-Smith - https://github.com/spencerdezartsmith  
+Team name - null-fron
 
 ## Specifications
 
